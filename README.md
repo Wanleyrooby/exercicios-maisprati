@@ -17,9 +17,9 @@ Para executar os exercícios localmente, você precisa ter instalado:
    
 **3. Execute um exercício:**
    - Você pode rodar qualquer um dos arquivos com o seguinte comando:<br>
-        node exercicio_X.js
+        - node exercicio_X.js
    - Substitua X pelo número do exercício que deseja testar. Por exemplo:<br>
-        node exercicio_1.js
+        - node exercicio_1.js
 
 
 
