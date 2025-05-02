@@ -3,7 +3,7 @@ Este repositório contém uma lista de exercícios em JavaScript desenvolvidos p
 
 ### 🛠️ Pré-requisitos
 Para executar os exercícios localmente, você precisa ter instalado:
-- Node.js (versão recomendada: 18.x ou superior)
+- Node.js 
 - Um editor de texto como o Visual Studio Code
 
 ### 🚀 Como configurar e executar localmente
